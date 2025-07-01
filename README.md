@@ -37,3 +37,35 @@ It includes interactive filters for:
   Compare sales and profit figures across U.S. states like California, New York, and Texas.
 
 ---
+
+## 💡 Tools & Technologies Used
+
+- *Power BI* – for data visualization and interactive dashboard creation  
+- *Excel/CSV* – as data source  
+- *DAX & Power Query* – for data transformation and calculation  
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository
+2. Open the .pbit file in Power BI Desktop
+3. Load your own sales dataset (or use the one provided)
+4. Explore the dashboard with filters and visuals
+
+---
+
+## 📸 Dashboard Preview
+
+![E-Commerce Dashboard](Images/Dashboard_Snapshot.png)
+
+---
+
+## 🧠 Learnings & Takeaways
+
+- Hands-on experience with DAX functions
+- Data modeling and relationship building
+- Creating user-friendly, interactive dashboards
+- Gained insights into regional and categorical sales performance
+
+---
