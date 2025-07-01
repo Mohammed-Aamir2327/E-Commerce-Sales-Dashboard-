@@ -57,7 +57,7 @@ It includes interactive filters for:
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Dashboard](Images/Dashboard_Snapshot.png)
+![E-Commerce Dashboard](https://github.com/Mohammed-Aamir2327/E-Commerce-Sales-Dashboard-/blob/main/E-Commerce%20Sales%20Dashboard.png)
 
 ---
 
